@@ -67,6 +67,17 @@ This app provides:
 
 ---
 
+## Visualizations
+
+### Example Bar Chart  
+![CO₂ Savings Bar Chart](images/Barchart_usa_included.jpg)
+
+
+### Example Choropleth Map  
+![Textile Waste Reuse Map](images/map_co2e_saved.jpg)
+
+---
+
 ## Installation and Usage
 
 1. Clone the repository:  
