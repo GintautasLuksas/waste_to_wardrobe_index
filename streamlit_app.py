@@ -3,6 +3,14 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import plotly.express as px
 import numpy as np
+import os, pathlib, tempfile
+
+
+tmp_home = pathlib.Path(tempfile.gettempdir())
+os.environ["HOME"] = str(tmp_home)
+os.environ["STREAMLIT_HOME"] = str(tmp_home)
+os.environ["STREAMLIT_DISABLE_USAGE_STATS"] = "true"
+
 
 # --- Streamlit Config ---
 st.set_page_config(layout="wide")
