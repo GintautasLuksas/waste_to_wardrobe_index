@@ -23,6 +23,8 @@ This app provides:
    - European Environment Agency (EEA)  
    - File: `data/raw/EEA_europe_waste_per_capita_2020.xlsx`  
    - Contains estimated textile waste per capita for European countries in 2020
+  *EA standard re-use policy: unless otherwise indicated, re-use of content on the EEA website for commercial or non-commercial purposes is permitted free of charge,
+provided that the source is acknowledged (https://www.eea.europa.eu/legal/copyright). Copyright holder: European Commission, European Environment Agency (EEA).
 
 2. **United States Data**  
    - US Environmental Protection Agency (EPA) 2018 estimate  
